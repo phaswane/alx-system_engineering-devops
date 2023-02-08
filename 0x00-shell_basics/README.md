@@ -10,3 +10,6 @@
 **8-firstdelete** - delete the file betty.
 **9-firstdirdeletion** - delete the directory myfirstdirectory that is in the /tmp.
 **10-back** - write a script that changes the working directory to the previous one.
+**11-lists** - write a script that lists all files (even ones with names beginning with a period charector, which normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+**12-file_type** - write a script that prints the type of the file named iamafile.
+**14-copy_html** - create a script that copies all the HTML files from the current working directory to the parent of the working directory.
